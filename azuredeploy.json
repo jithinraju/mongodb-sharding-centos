@@ -9,7 +9,7 @@
         "description": "Location for all resources"
       }
     },
-    "adminUsername": {
+    "adminUsername_jith": {
       "type": "string",
       "metadata": {
         "description": "Administrator user name used when provisioning virtual machines"
